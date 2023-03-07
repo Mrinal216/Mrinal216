@@ -8,12 +8,12 @@ class Mrinal:
     def __init__(self):
         self.info={
             institute: "Adamas University",
-            status: "Student",
-            goal: "To become a Software Developer"
+            status: "Software Developer",
+            goal: "Not Available"
         }
-        self.code=[C,Java, Python,HTML,CSS,JavaScript]
-        self.tools=[React]
-        self.interest=("Problem Solving")
+        self.code=[C,Java, HTML,CSS,JavaScript, Apex, LWC, Aura, Salesforce Admin]
+        self.tools=[LWC]
+        self.interest=("Web Development")
         
         
 me = Mrinal()
@@ -23,7 +23,7 @@ me = Mrinal()
 <pre>
 <br />
 I'm
-🔭 Currently learning Web Development
+🔭 Currently Working at an IT Firm as An Associate Software Engineer
 🌱 Interested in Machine Learning & Data Science
 ⚡ Ask Me About Git Hub
 <br />
